@@ -5,7 +5,7 @@ This is the assignmen1 of the Research Track1. We have an environment which is i
 ![](sr/Start_Config.png)
 > Figure1) The First place of configuration of the Robot and environment
 
-![](sr/Screenshot 2023-11-11 063030.png)
+![](sr/final_pos.png)
 > Figure2) Final configuration of the boxes
 
 ![](sr/Flowchart.png)
