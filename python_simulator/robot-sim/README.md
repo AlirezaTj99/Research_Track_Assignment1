@@ -1,3 +1,16 @@
+Research_Track1_Assignment1
+------------------------------------------------
+The first assignment of the Research Track1 is to set the robot to find and grab all the gold boxes in the environment ` Figure1 ` and put all together as in ` Figure2 ` showed.
+
+![] (sr/Start_Config.png)
+> Figure1) The first place of the configuration of the boxes
+
+![](sr/Final_pos.png)
+> Figure2) Final configuration of the gold boxes
+
+![](sr/Flowchart.png)
+> Figure3) flowchart
+
 Python Robotics Simulator
 ================================
 
