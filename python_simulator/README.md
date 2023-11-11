@@ -1,3 +1,16 @@
+Research_Track1_Assignment1
+------------------------------------------------
+This is the assignmen1 of the Research Track1. We have an environment which is in `Figure1` showed. The robot need a code to grab and place the 6 gold boxes all together in a one direction. You can also see the end result at `Figure2` and also the flowchart by visio at `Figure3`.
+
+![](sr/Start_Config.png)
+> Figure1) The First place of configuration of the Robot and environment
+
+![](sr/Screenshot 2023-11-11 063030.png)
+> Figure2) Final configuration of the boxes
+
+![](sr/Flowchart.png)
+> Figure3) flowchart
+
 Python Robotics Simulator
 ================================
 
