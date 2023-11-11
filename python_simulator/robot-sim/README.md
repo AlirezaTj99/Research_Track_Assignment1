@@ -2,10 +2,10 @@ Research_Track1_Assignment1
 ------------------------------------------------
 The first assignment of the Research Track1 is to set the robot to find and grab all the gold boxes in the environment ` Figure1 ` and put all together as in ` Figure2 ` showed.
 
-![] (sr/Start_Config.png)
+![First_pos](https://github.com/AlirezaTj99/Research_Track_Assignment1/assets/150545194/2b93591c-33b3-4b9b-9d02-0d944454b071)
 > Figure1) The first place of the configuration of the boxes
 
-![](sr/Final_pos.png)
+![Final_pos](https://github.com/AlirezaTj99/Research_Track_Assignment1/assets/150545194/d7795262-aa61-4887-b40f-98a3c3c75ac2)
 > Figure2) Final configuration of the gold boxes
 
 ![](sr/Flowchart.png)
