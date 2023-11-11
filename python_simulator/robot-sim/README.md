@@ -38,19 +38,10 @@ On Ubuntu, this can be accomplished by:
 
 To run one or more scripts in the simulator, use `run.py`, passing it the file names. 
 
-I am proposing you three exercises, with an increasing level of difficulty.
-The instruction for the three exercises can be found inside the .py files (exercise1.py, exercise2.py, exercise3.py).
-
 When done, you can run the program with:
 
 ```bash
-$ python run.py exercise1.py
-```
-
-You have also the solutions of the exercises (folder solutions)
-
-```bash
-$ python run.py solutions/exercise1_solution.py
+$ python2 run.py assignment.py
 ```
 
 Robot API
@@ -114,5 +105,13 @@ for m in markers:
     elif m.info.marker_type == MARKER_ARENA:
         print " - Arena marker {0} is {1} metres away".format( m.info.offset, m.dist )
 ```
-
+Coding
+-------------------------
+The robot should search, find, grab, move and place all the gold boxes together in a same lacation. For this, we have some parameters: `a_th` and `d_th`. They are the angle and distance threshold, respectively. These parameters help robot to understand when it's close to the gold box to grab. We also have another defined functions: 
+`drive`
+`turn`
+``
+``
+``
+``
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
