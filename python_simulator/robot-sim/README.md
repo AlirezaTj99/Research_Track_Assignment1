@@ -294,4 +294,5 @@ while len(Grabber)<6: # at the end the robot has the code of all 6 boxes correct
 	Grabber.append(Code) # the code of the previous box added to the list. robot looks for other gold boxes
 
 ```
+END
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
